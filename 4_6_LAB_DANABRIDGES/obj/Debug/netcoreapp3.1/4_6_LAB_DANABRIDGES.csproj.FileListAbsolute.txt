@@ -1,0 +1,11 @@
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\bin\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.exe
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\bin\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.deps.json
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\bin\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.runtimeconfig.json
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\bin\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.runtimeconfig.dev.json
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\bin\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.dll
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\bin\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.pdb
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\obj\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.AssemblyInfoInputs.cache
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\obj\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.AssemblyInfo.cs
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\obj\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.dll
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\obj\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.pdb
+D:\Users\dbridges2\source\repos\4_6_LAB_DANABRIDGES\4_6_LAB_DANABRIDGES\obj\Debug\netcoreapp3.1\4_6_LAB_DANABRIDGES.csprojAssemblyReference.cache
